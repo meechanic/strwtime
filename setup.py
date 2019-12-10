@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='strwtime',
-  version='0.0.1',
+  version='0.0.2',
   description='Helloworld package',
   author='Anybody Anybody',
   author_email='meechanic.design@gmail.com',
